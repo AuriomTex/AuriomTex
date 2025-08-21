@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on nothing :( (but im planning to designing a new videogame)<br>🤝 I’m looking for help with game development<br>🌱 I’m currently learning C#<br>⚡ Fun fact there is a island filled with old, decaying dolls near Mexico City
+🔭 I’m currently working on nothing SillyPlatformer (A Metroidvania made in Godot witch C#)<br>🤝 I’m looking for help with game development<br>🌱 I’m currently learning C#<br>⚡ Fun fact there is a island filled with old, decaying dolls near Mexico City
 
 
 # 💻 Tech Stack:
