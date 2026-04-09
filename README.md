@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on University recaps<br>
-🤝 I’m looking for help with BMNP<br>
+🤝 I’m looking for help with Process Automation<br>
 🌱 I’m currently learning RPA in UIPath<br>
 ⚡ Fun fact there is a island filled with old, decaying dolls near Mexico City
 
